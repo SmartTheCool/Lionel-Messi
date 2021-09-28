@@ -1,0 +1,14 @@
+* {
+    background-color:#00008b;
+    color: #fff;
+}
+
+h1 {
+    color: lightblue;
+    text-align:center;
+}
+
+p {
+    font-family:sans-serif;
+    font: 45px;
+}
